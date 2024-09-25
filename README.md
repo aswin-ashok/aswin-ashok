@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @aswin-ashok
 - 👀 I’m interested in writing codes
-- 🌱 I’m currently learning python django programs
-
-<!---
-aswin-ashok/aswin-ashok is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 I’m currently learning Reactjs 
+- 💞️ I’m looking to collaborate on Frontend projects, especially those involving Reactjs and some Libraries.
+- 📫 How to reach me: You can email me at aswinashok96@gmail.com or connect with me on www.linkedin.com/in/aswin-ashok96.
+- 😄 Pronouns: He/Him
